@@ -1,0 +1,1 @@
+- css [https://daisyui.com/docs/install/]
